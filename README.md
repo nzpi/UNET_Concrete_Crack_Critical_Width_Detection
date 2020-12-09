@@ -14,8 +14,8 @@ Implementation of Standard UNET architecture for crack detection through image s
 - --augmentation: Augments dataset to create additional images for training or testing purposes
 
 Example:
-main.py --dataset=example --arch=example --dip=example --gpu --test
-python main.py --dataset=example --dip=example --augmentation=0000
+- main.py --dataset=example --arch=example --dip=example --gpu --test
+- python main.py --dataset=example --dip=example --augmentation=0000
  
 # Example Results
 
