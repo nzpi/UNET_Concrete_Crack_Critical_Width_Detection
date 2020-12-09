@@ -1,6 +1,6 @@
 # Concrete Critical Crack Width Detection using UNET
 
-Implementation of Standard UNET architecture for crack detection through image segmentation as well as post processing for critical area location. 
+Python Implementation of Standard UNET architecture for crack detection through image segmentation as well as post processing for critical area location. 
 
 <img src="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" width="600" height="400" class="center"/>
 
